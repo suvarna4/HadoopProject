@@ -1,0 +1,5 @@
+1/22/2017 - Created Repo, formatlinks.pig, FormatLinks UDF - Adit
+	//formatlinks.pig currently outputs in correct format, still need to update
+	//so that it outputs to HBase instead of HDFS. The other folder is the UDF
+	//file I used, we could get around the UDF, but it seems to be more hassle
+	//than its worth. 
